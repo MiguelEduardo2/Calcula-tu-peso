@@ -1,0 +1,16 @@
+body{
+	background-image: url(Imagen2.gif);
+	width: 100%;
+	background-size: cover;
+}
+input{
+	size: 20px;
+	padding: 5px;
+	background-color: #CCCCCC;
+}
+	.redondeado{
+		border-radius: 5px;
+	}
+	.sinborde{
+		border: 0;
+	}
